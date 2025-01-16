@@ -5,6 +5,7 @@ seoDescription: "Discover how Google Gemini 2.0 transforms AI with multimodal ca
 datePublished: Thu Jan 16 2025 17:37:24 GMT+0000 (Coordinated Universal Time)
 cuid: cm5zm5gko000609i8amb876px
 slug: google-gemini-20-revolutionizing-ai-with-multimodal-magic
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/6UDansS-rPI/upload/78b5d22c3465f765051b9f39a8f73cb7.jpeg
 tags: google-gemini-ai
 
 ---
@@ -41,7 +42,7 @@ Whether you’re excited or worried, this is worth paying attention to. Google i
 * [Video 2: Gemini 2.0 in Real-Time](https://www.youtube.com/watch?v=Y3vWMZ8bR9Q)
     
 
-<hn-html-element data-content="<iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Y3vWMZ8bR9Q?si=xjBhk8KSXOCjhtKf&quot;></iframe>"></hn-html-element>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y3vWMZ8bR9Q?si=xjBhk8KSXOCjhtKf"></iframe>
 
 ### What Happens Next?
 
